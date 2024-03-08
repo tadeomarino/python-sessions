@@ -13,7 +13,7 @@ Como primer paso, vamos a ver cómo configurar un entorno de desarrollo Python e
 
 ## Instalación de Visual Studio Code en Windows
 
-Visual Studio Code es un editor de código fuente desarrollado por Microsoft que recomendamos y vamos a estar utilizando en estas sesiónes para desarrollar automatizaciones que necesitemos en nuestro día a día. Se puede descargar desde la página oficial de [Visual Studio Code](https://code.visualstudio.com/download) o desde Microsoft Store buscando 'Visual Studio Code'.
+Visual Studio Code es un editor de código fuente desarrollado por Microsoft que recomendamos y vamos a estar utilizando en estas sesiónes para desarrollar nuestros proyectos de Python. Se puede descargar desde la página oficial de [Visual Studio Code](https://code.visualstudio.com/download) o desde Microsoft Store buscando 'Visual Studio Code'.
 
 ## Instalación de Python
 
